@@ -100,7 +100,6 @@
     <string:String x:Key="CheckUpdatesButtonText">Rechercher maintenant</string:String>
     <string:String x:Key="UpdateAvailableText">Une mise à jour est disponible! Téléchargez la nouvelle version ici</string:String>
     <string:String x:Key="UpdateAvailableNotifText">Nouvelle version disponible!</string:String>
-    <string:String x:Key="UpdateAvailableNotifButton">Télécharger</string:String>
     <string:String x:Key="OpenGitHubButtonText">Voir le projet sur GitHub</string:String>
     <string:String x:Key="UpdateExceptionTitleText">Impossible de rechercher des mises à jour</string:String>
     <string:String x:Key="UpdateHTTPExceptionBodyText">La connexion à GitHub a échoué. Vérifiez votre connexion et réessayez.</string:String>
